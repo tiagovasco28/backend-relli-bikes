@@ -94,12 +94,6 @@
 				<version>3.11.0</version>
 				<configuration>
 					<release>17</release>
-						<excludes>
-							<exclude>
-								<groupId>org.projectlombok</groupId>
-								<artifactId>lombok</artifactId>
-							</exclude>
-						</excludes>
 				</configuration>
 			</plugin>
 		</plugins>
